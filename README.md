@@ -18,8 +18,6 @@
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger
-
 ## Цель работы
 Научиться передавать в Unity данные из Google Sheets с помощью Python.
 
@@ -105,8 +103,6 @@ https://docs.google.com/spreadsheets/d/1KvsUmYLaEN9s0z9HYiJUsDshXMo7XJsKhErwZ5JW
 - Если команде не хватает на покупки 1-ого варианта снаряжения - badSpeak
 - Если команде хватает на покупку 1-ого варианта снаряжения, но не хватает на 2-ой - normalSpeak
 - Если команде хватает на покупку 2-ого варианта снаряжения - goodSpeak
-
-Стоит заметить, что в скрипте мы не берём в рассчёт исход ранда (выиграла команда или проиграла)
 
 ```cs
 using System.Collections;
